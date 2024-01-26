@@ -13,6 +13,7 @@
             <TextBlock Text="Введите текст:" Margin="0 10 0 10"/>
             <TextBox x:Name="InputTextBox2" Width="200" Height="30" Margin="0 0 0 10"/>
             <Button Content="Нажмите" Click="Button_Click"/>
+            <TextBlock Text="Введите текст:" Margin="0 10 0 10"/>
         </StackPanel>
     </Grid>
 </Window>
